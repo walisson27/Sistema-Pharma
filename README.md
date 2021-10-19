@@ -2,7 +2,7 @@
   
 <h3>A empresa Pharma Inc, está trabalhando em um projeto em colaboração com sua base de clientes para facilitar a gestão e visualização da informação dos seus pacientes de maneira simples e objetiva em um Dashboard onde podem listar, filtrar e expandir os dados disponíveis.<h3>
 
-# Como Iniciar teste
+# Como Iniciar Projeto
   
 1- npm install
   
@@ -10,7 +10,7 @@
   
 3-[http://localhost:3000](http://localhost:3000)
 
-## Tecnologias Usandas no Teste
+## Tecnologias Usandas no Projeto
 
 - ReactJS
 - Bootstrap
