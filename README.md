@@ -7,7 +7,6 @@
 - ReactJS
 - Bootstrap
   
-  
 - [Link do Projeto](https://projetosistemapharma.netlify.app/)
 
   
