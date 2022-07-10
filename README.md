@@ -1,19 +1,36 @@
-<h1>Pharma Inc<h1>
-  
+<h1 align="center">
+     Pharma 
+</h1>
 
+<h4 align="center">
+  🚀 Desenvolvido com VueJs
+</h4>
 
-## Tecnologias Usandas no Projeto
+<p align="center">
+  <a href="https://projetosistemapharma.netlify.app/">Pagina do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  
+</p>
 
-- ReactJS
-- Bootstrap
-  
-- [Link do Projeto](https://projetosistemapharma.netlify.app/)
+## :rocket: Tecnologias
 
-  
-# Como Iniciar Projeto
-  
-1- npm install
-  
-2- npm start
-  
-3-[http://localhost:3000](http://localhost:3000)
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- ReactJs
+- Styled-components
+- Axios 
+- Utilizando Api [Randomuser](https://randomuser.me/)
+
+<br>
+
+## 💻 Instalação
+
+Para iniciar o **Projeto** utilize os comandos:
+
+```bash
+npm install
+npm start
+```
+
+Assim que o processo terminar, automaticamente será aberta no seu navegador a página `http://localhost:3000/`.
