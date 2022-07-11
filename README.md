@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  🚀 Desenvolvido com VueJs
+  🚀 Desenvolvido com ReactJS
 </h4>
 
 <p align="center">
