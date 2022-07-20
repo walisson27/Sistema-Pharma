@@ -20,7 +20,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Bootstrap
 - Axios 
 - Utilizando Api [Randomuser](https://randomuser.me/)
-
 <br>
 
 ## 💻 Instalação
