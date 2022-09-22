@@ -34,5 +34,4 @@ Para iniciar o **Projeto** utilize os comandos:
 npm install
 npm start
 ```
-
 Assim que o processo terminar, automaticamente será aberta no seu navegador a página `http://localhost:3000/`.
