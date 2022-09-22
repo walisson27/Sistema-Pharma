@@ -5,7 +5,6 @@
 <h4 align="center">
   🚀 Desenvolvido com ReactJS
 </h4>
-
 <p align="center">
   <a href="https://projetosistemapharma.netlify.app/">Pagina do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
